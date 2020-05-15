@@ -16,7 +16,7 @@ export function fight(firstFighter, secondFighter) {
         scnd = scnd -getDamage(secondFighter, firstFighter);
         setTimeout(function(){console.log('check 3000')},3000);
         if (frst<=0 || scnd<=0) {
-            
+
             if (frst <= 0) {
                 console.log("frst" + frst);
 
@@ -60,7 +60,7 @@ export function getHitPower(fighter) {
   // return hit power
     console.log(fighter);
     const {attack } = fighter;
-    let getPower = attack  * Math.floor(Math.random() * 2) + 1;
+    let getPower = attack  * Math.random() * 2;
     return getPower;
 }
 
@@ -69,7 +69,7 @@ export function getBlockPower(fighter) {
   //   power = attack * criticalHitChance;, де criticalHitChance — рандомне число від 1 до 2,
   //   power = defense * dodgeChance;, де dodgeChance — рандомне число від 1 до 2.
     const {defense} = fighter;
-    let getDefence = defense  * Math.floor(Math.random() * 2) + 1;
+    let getDefence = defense  * Math.random() * 2;
     return getDefence;
 }
 

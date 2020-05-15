@@ -83,8 +83,8 @@
       <file leaf-file-name="fight.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javascript/fight.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+            <state relative-caret-position="293">
+              <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -348,12 +348,12 @@
       <workItem from="1589269952038" duration="28558000" />
       <workItem from="1589308447335" duration="63922000" />
       <workItem from="1589538996432" duration="20576000" />
-      <workItem from="1589570941750" duration="3768000" />
+      <workItem from="1589570941750" duration="4882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116824000" />
+    <option name="totallyTimeSpent" value="117938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="3" width="1360" height="724" extended-state="0" />
@@ -721,8 +721,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javascript/fight.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        <state relative-caret-position="293">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
           <folding />
         </state>
       </provider>
